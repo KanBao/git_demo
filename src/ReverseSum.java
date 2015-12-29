@@ -1,5 +1,6 @@
 /**
  * 用于计算16位的反码校验和
+ * 可以简化，还需改进
  * @author Administrator
  */
 public class ReverseSum {
